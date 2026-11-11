@@ -1,0 +1,8 @@
+{
+  "name": "ÇAKIR Bilinçli Tüketici Marketi",
+  "description": "2. sınıf PYP Matematik kazanımlarına uygun, 4 farklı karakterle bütçe yönetimi, ihtiyaç-istek ayrımı, alışveriş listesi ve para üstü hesaplama oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
